@@ -6,7 +6,7 @@ Repositório da equipe para as atividades da Unidade Curricular Qualidade de Sof
 
 | Nome | Turma | Usuário no GitHub |
 |---|---|---|
-| Preencher | Preencher | @usuario |
+| Joao Robe | ADS5N26-2C | @joaorobe |
 
 ## Atividades
 
